@@ -4,7 +4,7 @@
 >
 > See the [Grants Program Process](https://github.com/Mintbase/Grants-Program/#pencil-process) on how to submit a proposal.
 
-- **Project Name:** Name of your project (e.g. DuoSwap Module)
+- **Project Name:** Metronomo (e.g. DuoSwap Module)
 - **Team Name:** Legal name of your team (e.g. Duo)
 - **Payment Address:** A NEAR account to where funds can be transfered (e.g. myproject.near)
 - **[Level](../README.md#level_slider-levels):** 1, 2 or 3
