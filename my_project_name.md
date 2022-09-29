@@ -14,16 +14,22 @@
 ## Project Overview :page_facing_up:
 
 ### Overview
+Metronomo is a user growth infrastracture solution for NEAR ecosystem
 
-Please provide the following:
+#### Problem
+On-chain data is fragmented and poorly structured => тhere are no tools for acquaring and retaining users compared to web2
 
-- Metronomo is a user growth infrastracture solution for NEAR
-## Problem and solution
-- An indication of how your project relates to / integrates into the Mintbase / NEAR ecosystem.
-- An indication of why your team is interested in creating this project.
+#### Solution
+As a first step, provide mintbase with a user profiling and personalization solution via on-chain data to accelerate their growth
+In the long term lay the foundation for building multiple martech products on NEAR
+
+#### Why we do
+Our team has 10+ year experience in product growth and analytics
+We are confident that on-chain data has unique value for scaling web3 products and ecosystem as a whole
+So we can formulate our mission as **make web3 martech great to the next bull run**
+
 
 ### Project Details
-
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
 - Mockups/designs of any UI components
