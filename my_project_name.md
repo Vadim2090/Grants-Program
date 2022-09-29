@@ -71,17 +71,15 @@ Help us locate your project in the Mintbase landscape and what problems it tries
 - **Registered Legal Entity:** -
 
 ### Team's experience
-Vladimir Gusev:
+**Vladimir Gusev**:
 - 15+ years in
-- ownden businesses with cap ...
+- owned businesses with cap ...
 
-Yaroslav Bondarchuk
+**Yaroslav Bondarchuk**
 - 8 years in analytics and data science
-- https://www.linkedin.com/in/bondarchukyaroslav/
 
-Vadim Smirnov
-- 10+ years in
-- 
+**Vadim Smirnov**
+- 10+ years in marketing and product growth
 
 ### Team Code Repos
 
@@ -96,8 +94,9 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
+- https://www.linkedin.com/in/gusev-v1987/<Vladimir Gusev>
+- https://www.linkedin.com/in/bondarchukyaroslav/<Yaroslav Bondarchuk>
+  https://www.linkedin.com/in/vadim-smirnov-71a66b189/<Vadim Smirnov>
 
 ## Development Status :open_book:
 
