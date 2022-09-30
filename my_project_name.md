@@ -6,7 +6,7 @@
 
 - **Project Name:** Metronomo
 - **Team Name:** Metronomo
-- **Payment Address:** A NEAR account to where funds can be transfered (e.g. myproject.near)
+- **Payment Address:** metronomo.near
 - **[Level](../README.md#level_slider-levels):** 2
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
@@ -14,14 +14,16 @@
 ## Project Overview :page_facing_up:
 
 ### Overview
-Metronomo is a user growth infrastracture solution for NEAR ecosystem
+Metronomo is a user growth infrastracture for NEAR ecosystem
 
 #### Problem
-On-chain data is fragmented and poorly structured => тhere are no tools for acquaring and retaining users in web3 similar to existing web2 solutions
+On-chain data is fragmented and poorly structured => тhere are no tools for acquaring and retaining users in web3 similar to existing in web2
+(хотели создать сами тулзу, но поняли что не хватает базового слоя данны)
 
 #### Solution
+*
 The first step - to provide mintbase and businesses with the user profiling and personalization tool via on-chain data
-In the long term lay the foundation for building multiple martech products on NEAR
+In the long term lay the foundation for building multiple martech products on NEAR - create data protocol
 
 #### Why we do
 Our team has 10+ year experience in product growth and analytics
@@ -42,13 +44,24 @@ We expect the teams to already have a solid idea about your project's expected f
 
 ### Ecosystem Fit
 #### Where and how does your project fit into the ecosystem?
-Мы хотим
+Мы видим metronomo как модуль mintbase
 
-- Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-- What need(s) does your project meet?
+#### Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
+Все проекты экосистемы mintbase
+
+#### What need(s) does your project meet?
+Дать проектам инструмент привлечения и удержания пользователей:
+- выявления источников привл
+- выявления профилей пауер юзеров, улучшать их опыт и эффективно привлекать новых на основе этих данных
+
 - Are there any other projects similar to yours in the Mintbase / NEAR ecosystem?
-  - If so, how is your project different?
-  - If not, are there similar projects in related ecosystems?
+Wombi
+
+ - If so, how is your project different?
+специализация на NFT-маркетплейсах (как пример, можем двигаться в сторону рекоменд системы на коллекциях)
+
+ - If not, are there similar projects in related ecosystems?
+ мы не знаем таковых
 
 ## Team :busts_in_silhouette:
 
