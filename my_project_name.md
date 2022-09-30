@@ -20,7 +20,7 @@ Metronomo is a user growth infrastracture solution for NEAR ecosystem
 On-chain data is fragmented and poorly structured => тhere are no tools for acquaring and retaining users in web3 similar to existing web2 solutions
 
 #### Solution
-The first step - to provide mintbase and businesses with the user profiling and personalization tool via on-chain data to accelerate their growth
+The first step - to provide mintbase and businesses with the user profiling and personalization tool via on-chain data
 In the long term lay the foundation for building multiple martech products on NEAR
 
 #### Why we do
@@ -41,10 +41,9 @@ We expect the teams to already have a solid idea about your project's expected f
   - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
 
 ### Ecosystem Fit
+#### Where and how does your project fit into the ecosystem?
+Мы хотим
 
-Help us locate your project in the Mintbase landscape and what problems it tries to solve by answering each of these questions:
-
-- Where and how does your project fit into the ecosystem?
 - Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
 - What need(s) does your project meet?
 - Are there any other projects similar to yours in the Mintbase / NEAR ecosystem?
@@ -72,8 +71,8 @@ Help us locate your project in the Mintbase landscape and what problems it tries
 
 ### Team's experience
 **Vladimir Gusev**:
-- 15+ years in
-- owned businesses with cap ...
+- 15+ years in business developing
+- owned businesses
 
 **Yaroslav Bondarchuk**
 - 8 years in analytics and data science
@@ -82,7 +81,6 @@ Help us locate your project in the Mintbase landscape and what problems it tries
 - 10+ years in marketing and product growth
 
 ### Team Code Repos
-
 - https://github.com/<your_organisation>
 - https://github.com/<your_organisation>/<project_1>
 - https://github.com/<your_organisation>/<project_2>
