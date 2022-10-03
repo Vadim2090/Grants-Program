@@ -18,7 +18,7 @@ Please provide the following:
 ### Project Details
 
 We will create simple API, which allows to integrate functionality in different products (ex. Mintbase UI, Telegram Bot or other) 
-- API specification: NEED TO CREATE
+- API specification: https://www.notion.so/gusevvladimir/Projects-with-potential-power-users-7982033da4424787993fed3001a7f54a
 - MVP: Telegram bot: @metronomo_bot
 - Technology stack to be used: Google Cloud Functions, Google Cloud Storage, Python
 
@@ -68,38 +68,35 @@ If anyone on your team has applied for a grant at the Mintbase previously, pleas
 
 ## Development Status :open_book:
 
-1. MVP Bot
-2. Research on possibility to do so
-3. Links to look-a-like technology description
-4. Git with extracting data
-5. RFM-segmentation description
+As we are going to create infrastructure protocol for creating user acquisition tools for web3, currently we are aiming to create first valuable tools and infrastructure and technology they need.
+
+We believe that MVP will help us to both provide value for projects on NEAR ecosystem and create foundation for user acquisition infrastructure protocol.
+
+As for now we've already done:
+1. Telegram Bot to test hypothesis on NEARCON and research projects pains and value request. We've found out that user acquisition part of ecosystem lacks most of familiar tools and techniques.
+2. For now we consider, that main method to find power users will be RFM-segmentation https://en.wikipedia.org/wiki/RFM_(market_research)
+3. We've created very basic projects and users similarity analysis tools and found out, that it's possible to compute on net very expensive servers and in reasonable time for creating product.
+4. There are several users-similarity techniques described in papers, which we're going to try and implement. For example (but not limited to):
+   1. https://link.springer.com/article/10.1007/s10115-021-01651-8
+   2. https://ieeexplore.ieee.org/abstract/document/904471
+   3. https://link.springer.com/chapter/10.1007/978-981-19-1018-0_42
+
+During this project we are going to get 3 main results:
+- create module to find power users. interacted with given smart contract.
+- create module to calculate users similarity measure and find potential power users
+- create module to find smart-contract which potential power users interact with
 
 ## Development Roadmap :nut_and_bolt:
 
 ### Overview
 
-- **Total Estimated Duration:** 3 months
-- **Full-Time Equivalent (FTE):**  4 FTE
-- **Total Costs:** 20,000 USD
+- **Total Estimated Duration:** 3,5 months
+- **Full-Time Equivalent (FTE):**  5 FTE
+- **Total Costs:** 25,000 USD
 
 ### Milestone 1 — Implement power-users search module
 
 - **Estimated duration:** 1 month
-- **FTE:**  2
-- **Costs:** 10,000 USD
-
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 0a. | License | proprietary
-| 0b. | Documentation | We will provide both **inline documentation** of the code and basic tutorial on how to deploy and run created module.
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 1. | Power-users-search module: X | We will create a module that will search for power users of a smart contract, given the indexed blockchain data in described format.  
-
-
-### Milestone 2 - Implement look-a-like module
-
-- **Estimated Duration:** 1 month
 - **FTE:**  1
 - **Costs:** 5,000 USD
 
@@ -109,7 +106,22 @@ If anyone on your team has applied for a grant at the Mintbase previously, pleas
 | 0b. | Documentation | We will provide both **inline documentation** of the code and basic tutorial on how to deploy and run created module.
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
 | 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 1. | Look-a-like module: X | We will create a module that will create look-a-like (embeded vector) representation of a power users in user space
+| 1. | Power-users-search module | We will create a module that will search for power users of a smart contract, given the indexed blockchain data in described format.  
+
+
+### Milestone 2 - Implement look-a-like module
+
+- **Estimated Duration:** 1,5 months
+- **FTE:**  2
+- **Costs:** 15,000 USD
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 0a. | License | proprietary
+| 0b. | Documentation | We will provide both **inline documentation** of the code and basic tutorial on how to deploy and run created module.
+| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
+| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
+| 1. | Look-a-like module | We will create a module that will create look-a-like (embeded vector) representation of a power users in user space
 
 ### Milestone 3 - Implement users similarity module and users activity module
 
@@ -130,7 +142,8 @@ If anyone on your team has applied for a grant at the Mintbase previously, pleas
 
 ## Future Plans
 
-In future we are looking forward:
+In the future, we are looking forward:
+- generalize power-user analysis module to be possible to use as separate opne-source product
 - rewrite data extraction module (not covered by this grant application) to user NEAR Lake data (for Google Cloud) instead of NEAR Indexer for Explorer data
 - receive feedback on value of created features and adjust roadmap of future work
 - create recommender system for NFT marketplaces
