@@ -91,9 +91,9 @@ We are focused on tools for NFT projects
 
 **Vadim Smirnov**
 10+ years in marketing and product growth:
-- was responsible for the performance marketing of one of the units in the largest edtech project in the CIS. Has growed users x14 and revenue x10
+- was responsible for the performance marketing in unit of the largest edtech project in CIS. Has growed users x14 and revenue x10
 - led the growth team in one of the first Workforse as a service products. Reduced customer acquisition cost x2
-- acted as an advisor in the international marketing automation platform, developed b2b strategy
+- acted as an advisor in the international marketing automation platform. Developed and implemented b2b strategy
 
 Passionate about cycling, half marathon and marathon runner
 
