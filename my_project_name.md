@@ -22,9 +22,8 @@ On-chain data is huge but fragmented and poorly structured => ETL takes long tim
 
 
 #### Solution
-*
-The first step is to provide mintbase marketplaces with the user profiling tool via transformation of on-chain data
-In the long term lay the foundation for building multiple martech products on NEAR, create new data layer in the form of a data protocol
+*The first step is to provide mintbase marketplaces with the user profiling tool via transformation of on-chain data
+*In the long term lay the foundation for building multiple martech products on NEAR, create new data layer in the form of a data protocol
 
 #### Why we do
 Our team has 10+ year experience in product growth, analytics and engineering
@@ -66,9 +65,9 @@ We are focused on tools for NFT projects
 
 ### Team members
 
-- Vladimir  Gusev (team leader)
-- Yaroslav Bondarchuk
-- Vadim Smirnov
+*Vladimir  Gusev (team leader)
+*Yaroslav Bondarchuk
+*Vadim Smirnov
 
 ### Contact
 
