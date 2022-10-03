@@ -17,17 +17,18 @@
 Metronomo is a user growth infrastracture for NEAR ecosystem
 
 #### Problem
-On-chain data is fragmented and poorly structured => тhere are no tools for acquaring and retaining users in web3 similar to existing in web2
-(хотели создать сами тулзу, но поняли что не хватает базового слоя данны)
+Initially, we wanted to create a marketing automation tool, but we faced with the problem of missing the underlying data layer
+On-chain data is huge but fragmented and poorly structured => ETL takes long time and is expensive => there are no tools for acquaring and retaining users in web3 similar to existing in web2
+
 
 #### Solution
 *
-The first step - to provide mintbase and businesses with the user profiling and personalization tool via on-chain data
-In the long term lay the foundation for building multiple martech products on NEAR - create data protocol
+The first step - to provide mintbase and businesses on the platform with the user profiling tool via transformation of on-chain data
+In the long term lay the foundation for building multiple martech products on NEAR, create new data layer in the form of a data protocol
 
 #### Why we do
-Our team has 10+ year experience in product growth and analytics
-And we are confident that on-chain data has a unique role in scaling web3 products and ecosystem as a whole
+Our team has 10+ year experience in product growth, analytics and engineering
+We are confident that on-chain data has a unique role in scaling web3 products and ecosystem as a whole
 So we see our mission as **make web3 martech great to the next bull run**
 
 
