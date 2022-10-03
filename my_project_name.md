@@ -26,9 +26,9 @@ On-chain data is huge but fragmented and poorly structured => ETL takes long tim
 - In the long term lay the foundation for building multiple martech products on NEAR, create new data layer in the form of a data protocol
 
 #### Why we do
-Our team has 10+ year experience in product growth, analytics and engineering
-We are confident that on-chain data has a unique role in scaling web3 products and ecosystem as a whole
-So we see our mission as **make web3 martech great to the next bull run**
+- Our team has 10+ year experience in product growth, analytics and engineering.
+- We are confident that on-chain data has a unique role in scaling web3 products and ecosystem as a whole.
+- So we see our mission as **make web3 martech great to the next bull run**
 
 
 ### Project Details
