@@ -17,13 +17,13 @@
 Metronomo is a user growth infrastracture for NEAR ecosystem
 
 #### Problem
-Initially, we wanted to create a marketing automation tool, but we faced with the problem of missing the underlying data layer
+Initially, we wanted to create a marketing automation tool, but we faced the problem of missing the underlying data layer.
 On-chain data is huge but fragmented and poorly structured => ETL takes long time and is expensive => there are no tools for acquaring and retaining users in web3 similar to existing in web2
 
 
 #### Solution
 *
-The first step - to provide mintbase and businesses on the platform with the user profiling tool via transformation of on-chain data
+The first step is to provide mintbase marketplaces with the user profiling tool via transformation of on-chain data
 In the long term lay the foundation for building multiple martech products on NEAR, create new data layer in the form of a data protocol
 
 #### Why we do
@@ -45,24 +45,22 @@ We expect the teams to already have a solid idea about your project's expected f
 
 ### Ecosystem Fit
 #### Where and how does your project fit into the ecosystem?
-Мы видим metronomo как модуль mintbase
+We see Metronomo as the part of Mintbase marketplace contract 2.0 allowing merchants to create product selections based on user profiles and similarity to other projects
 
 #### Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-Все проекты экосистемы mintbase
+Mintbase ecosystem projects
 
 #### What need(s) does your project meet?
-Дать проектам инструмент привлечения и удержания пользователей:
-- выявления источников привл
-- выявления профилей пауер юзеров, улучшать их опыт и эффективно привлекать новых на основе этих данных
+As the part of marketplace contract 2.0 allow merchants to create product selections based on user profiles and similarity to other projects to grow revenue
 
-- Are there any other projects similar to yours in the Mintbase / NEAR ecosystem?
+#### Are there any other projects similar to yours in the Mintbase / NEAR ecosystem?
 Wombi
 
- - If so, how is your project different?
-специализация на NFT-маркетплейсах (как пример, можем двигаться в сторону рекоменд системы на коллекциях)
+#### If so, how is your project different?
+We are focused on tools for NFT projects
 
- - If not, are there similar projects in related ecosystems?
- мы не знаем таковых
+#### If not, are there similar projects in related ecosystems?
+-
 
 ## Team :busts_in_silhouette:
 
@@ -85,14 +83,19 @@ Wombi
 
 ### Team's experience
 **Vladimir Gusev**:
-- 15+ years in business developing
-- owned businesses
+15+ years in business developing
+
 
 **Yaroslav Bondarchuk**
-- 8 years in analytics and data science
+8+ years in analytics and data science
 
 **Vadim Smirnov**
-- 10+ years in marketing and product growth
+10+ years in marketing and product growth:
+- was responsible for the performance marketing of one of the units in the largest edtech project in the CIS. Has growed users x14 and revenue x10
+- led the growth team in one of the first Workforse as a service products. Reduced customer acquisition cost x2
+- acted as an advisor in the international marketing automation platform, developed b2b strategy
+
+Passionate about cycling, half marathon and marathon runner
 
 ### Team Code Repos
 - https://github.com/<your_organisation>
