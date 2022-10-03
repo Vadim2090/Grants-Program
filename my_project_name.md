@@ -44,7 +44,7 @@ We expect the teams to already have a solid idea about your project's expected f
 
 ### Ecosystem Fit
 #### Where and how does your project fit into the ecosystem?
-We see Metronomo as the part of Mintbase marketplace contract 2.0 allowing merchants to create product selections based on user profiles and similarity to other projects
+We see Metronomo as the part of Mintbase marketplace contract 2.0
 
 #### Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
 Mintbase ecosystem projects
