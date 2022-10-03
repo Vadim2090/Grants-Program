@@ -65,9 +65,9 @@ We are focused on tools for NFT projects
 
 ### Team members
 
--Vladimir  Gusev (team leader)
--Yaroslav Bondarchuk
--Vadim Smirnov
+- Vladimir  Gusev (team leader)
+- Yaroslav Bondarchuk
+- Vadim Smirnov
 
 ### Contact
 
