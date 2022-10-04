@@ -91,8 +91,8 @@ We are focused on tools for NFT projects
 **Vadim Smirnov**
 9+ years in marketing and product growth:
 - managed marketing in one of the units of [leading edtech platform in Eastern Europe](https://skillbox.com/)
-- led the growth team in one of the first workforse as a service CIS marketplaces.
-- acted as an advisor in the international marketing automation platform. Developed and implemented b2b strategy
+- led the growth team in the [largest Workforce-as-a-Service marketplace in CIS](https://gigwork.ru/)
+- acted as an advisor in the [international marketing automation platform](https://sailplay.com/)
 
 Passionate about cycling, half marathon and marathon runner
 
