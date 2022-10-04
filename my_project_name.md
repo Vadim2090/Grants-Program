@@ -1,15 +1,9 @@
 # Mintbase Grant Proposal
 
-> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines. Blockquote sections starting with a `>` (such as this one) can be removed.
->
-> See the [Grants Program Process](https://github.com/Mintbase/Grants-Program/#pencil-process) on how to submit a proposal.
-
 - **Project Name:** Metronomo
 - **Team Name:** Metronomo
 - **Payment Address:** metronomo.near
 - **[Level](../README.md#level_slider-levels):** 2
-
-> ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
 ## Project Overview :page_facing_up:
 
@@ -33,27 +27,26 @@ Create basic data layer for building marketing tools:
 - We are highly confident that on-chain data has a unique role in scaling web3 products and ecosystem as a whole.
 - So we see our mission as **make web3 martech great to the next bull run**
 
-
 ### Project Details
 
-
+-
 
 ### Ecosystem Fit
 #### Where and how does your project fit into the ecosystem?
-We see our project as the user growth module of Mintbase now and afterwards as part of marketplace contract 2.0
+We see this project as the user growth module of Mintbase
+In the next iteration it can become a part of marketplace contract 2.0, allowing merchants to place the most wanted goods via our technology
 
 #### Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
 Mintbase ecosystem projects
 
 #### What need(s) does your project meet?
-
-As the part of marketplace contract 2.0 allow merchants to create product selections based on user profiles and similarity to other projects to grow revenue
+Help them aquire and retain users
 
 #### Are there any other projects similar to yours in the Mintbase / NEAR ecosystem?
 Wombi
 
 #### If so, how is your project different?
-We are focused on tools for NFT projects
+We are focused on tools for NFT projects and are willing to create cross-chain user growth infrastracture
 
 #### If not, are there similar projects in related ecosystems?
 ---
@@ -94,7 +87,6 @@ We are focused on tools for NFT projects
 **Vadim Smirnov**
 
 9+ years in marketing and product growth:
-
 - managed marketing in one of the units of [leading edtech platform in Eastern Europe](https://skillbox.com/)
 - led the growth team in the [largest Workforce-as-a-Service marketplace in CIS](https://gigwork.ru/)
 - acted as an advisor in the [international marketing automation platform](https://sailplay.com/)
@@ -105,9 +97,9 @@ https://github.com/Metronomo-xyz
 
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/in/gusev-v1987/<Vladimir Gusev>
-- https://www.linkedin.com/in/bondarchukyaroslav/<Yaroslav Bondarchuk>
-  https://www.linkedin.com/in/vadim-smirnov-71a66b189/<Vadim Smirnov>
+- [Vladimir Gusev](https://www.linkedin.com/in/gusev-v1987/)
+- [Yaroslav Bondarchuk](https://www.linkedin.com/in/bondarchukyaroslav/) 
+- [Vadim Smirnov](https://www.linkedin.com/in/vadim-smirnov-71a66b189/)
 
 ## Development Status :open_book:
 
