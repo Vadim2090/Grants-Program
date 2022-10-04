@@ -1,20 +1,31 @@
 # Mintbase Grant Proposal
 
+- **Project Name:** Metronomo
+- **Team Name:** Metronomo
+- **Payment Address:** metronomo.near
+- **[Level](../README.md#level_slider-levels):** 2
+
 ## Project Overview :page_facing_up:
 
-If this application is in response to an RFP, please indicate this on the first line of this section.
-
-If this is an application for a follow-up grant (the continuation of an earlier, successful Mintbase grant), please provide name and/or pull request of said grant on the first line of this section.
-
 ### Overview
+Metronomo is a user growth infrastracture for NEAR ecosystem
 
-Please provide the following:
+#### Problem
+Initially, we wanted to create a marketing automation tool, but we faced the problem of missing the underlying data layer.
+We see the following causal relationship:
+1. On-chain data is huge but fragmented and poorly structured
+2. ETL takes long time and is expensive
+3. There are no tools for acquaring and retaining users in web3 similar to existing in web2
 
-- If the name of your project is not descriptive, a tag line (one sentence summary).
-- A brief description of your project.
-- An indication of how your project relates to / integrates into the Mintbase / NEAR ecosystem.
-- An indication of why your team is interested in creating this project.
 
+#### Solution
+- The first step is to provide mintbase marketplaces with the user profiling tool via transformation of on-chain data
+- In the long term lay the foundation for building multiple martech products on NEAR, create new data layer in the form of a data protocol
+
+#### Why we do
+- Our team has 10+ year experience in product growth, analytics and engineering.
+- We are confident that on-chain data has a unique role in scaling web3 products and ecosystem as a whole.
+- So we see our mission as **make web3 martech great to the next bull run**
 ### Project Details
 
 We will create simple API, which allows to integrate functionality in different products (ex. Mintbase UI, Telegram Bot or other) 
