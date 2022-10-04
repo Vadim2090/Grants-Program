@@ -33,7 +33,7 @@ Create basic data layer for building marketing tools:
 
 ### Ecosystem Fit
 #### Where and how does your project fit into the ecosystem?
-We see this project as the user growth module of Mintbase
+We see this project as the user growth module of Mintbase.
 In the next iteration it can become a part of marketplace contract 2.0, allowing merchants to place the most wanted goods via our technology
 
 #### Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
