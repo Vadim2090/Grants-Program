@@ -14,27 +14,30 @@
 ## Project Overview :page_facing_up:
 
 ### Overview
-Metronomo is a user growth infrastracture for NEAR ecosystem
+Metronomo is a cross-chain user growth infrastracture
 
 #### Problem
-Initially, we wanted to create a marketing automation tool, but we faced the problem of missing the underlying data layer.
-We causal relationship:
-1. On-chain data is huge but fragmented and poorly structured
-2. ETL is resource intensive and takes long time
-3. there are no tools for acquaring and retaining users in web3 similar to existing in web2
-
+We asked 7 web3 projects about their biggest challenges. All of them mentioned user acqusition as an urgent issue.
+That's how we had started building "hubspot for web3". But from the very beginning we faced 2 problems:
+1. On-chain data fragmented and poorly structured to create user profiles 
+2. ETL and mapping is resource intensive and expensive
 
 #### Solution
-- The first step is to provide mintbase marketplaces with the user profiling tool via transformation of on-chain data
-- In the long term lay the foundation for building multiple martech products on NEAR, create new data layer in the form of a data protocol
+Create basic data layer for building marketing tools.
+Структурировать данные и отдать дименшены: .....
+Создать технологии для  рекомендательная система для NFT, метчинг веб2/3, zero party data, knowledge and social graph и персонализацию
 
 #### Why we do
-- Our team has 10+ year experience in product growth, analytics and engineering.
-- We are confident that on-chain data has a unique role in scaling web3 products and ecosystem as a whole.
+- Our team has 10+ year experience in marketing, analytics and engineering.
+- We are highly confident that on-chain data has a unique role in scaling web3 products and ecosystem as a whole.
 - So we see our mission as **make web3 martech great to the next bull run**
 
 
 ### Project Details
+
+- The first step is to provide mintbase marketplaces with the user profiling tool via transformation of on-chain data
+- In the long term lay the foundation for building multiple martech products on NEAR, create new data layer in the form of a data protocol
+
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
 - Mockups/designs of any UI components
