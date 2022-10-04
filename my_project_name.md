@@ -79,30 +79,29 @@ We are focused on tools for NFT projects
 
 ### Team's experience
 **Vladimir Gusev**:
-15+ years in business developing
+
+- Professional online poker player since 2005 till 2010
+- Co-founder and CMO at Russia’s TOP10 Digital Marketing Agency
+    - Company was successfully acquired by TOP1 digital marketing group
+- Partner & VP of Growth and later COO at GigAnt (largest Workforce-as-a-Service marketplace in Russia)
+    - Company was successfully acquired by Avito ([World’s Most-visited Classified Ads Site by Similarweb](https://www.yahoo.com/lifestyle/avito-named-world-most-visited-190600803.html))
+- Since 2022 Co-founder and CEO at Metronomo. We are building marketing infrastructure for web3
 
 
 **Yaroslav Bondarchuk**
-8+ years in analytics and data science
+8+ years in analytics, data science, data engineering
 
 **Vadim Smirnov**
 
 9+ years in marketing and product growth:
-- managed marketing in one of the units of [leading edtech platform in Eastern Europe](https://skillbox.com/)
-- led the growth team in the [largest Workforce-as-a-Service marketplace in CIS](https://gigwork.ru/)
-- acted as an advisor in the [international marketing automation platform](https://sailplay.com/)
 
-Passionate about cycling, half marathon and marathon runner
+- managed marketing in one of the units of [leading edtech platform in Eastern Europe](https://skillbox.com/)
+- led the growth team in the [largest Workforce-as-a-Service marketplace in CIS](https://gigwork.ru/)
+- acted as an advisor in the [international marketing automation platform](https://sailplay.com/)
+- since 2022 Co-founder and CMO at [Metronomo](https://metronomo.xyz/)
 
 ### Team Code Repos
-- https://github.com/<your_organisation>
-- https://github.com/<your_organisation>/<project_1>
-- https://github.com/<your_organisation>/<project_2>
-
-Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
-
-- https://github.com/<team_member_1>
-- https://github.com/<team_member_2>
+https://github.com/Metronomo-xyz
 
 ### Team LinkedIn Profiles (if available)
 
