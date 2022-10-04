@@ -18,7 +18,10 @@ Metronomo is a user growth infrastracture for NEAR ecosystem
 
 #### Problem
 Initially, we wanted to create a marketing automation tool, but we faced the problem of missing the underlying data layer.
-On-chain data is huge but fragmented and poorly structured => ETL takes long time and is expensive => there are no tools for acquaring and retaining users in web3 similar to existing in web2
+We causal relationship:
+1. On-chain data is huge but fragmented and poorly structured
+2. ETL is resource intensive and takes long time
+3. there are no tools for acquaring and retaining users in web3 similar to existing in web2
 
 
 #### Solution
@@ -44,7 +47,7 @@ We expect the teams to already have a solid idea about your project's expected f
 
 ### Ecosystem Fit
 #### Where and how does your project fit into the ecosystem?
-We see Metronomo as the part of Mintbase marketplace contract 2.0
+We see Metronomo as the user growth module of Mintbase now and part of marketplace contract 2.0 in the next iteration
 
 #### Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
 Mintbase ecosystem projects
