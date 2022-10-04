@@ -23,39 +23,30 @@ That's how we had started building "hubspot for web3". But from the very beginni
 2. ETL and mapping is resource intensive and expensive
 
 #### Solution
-Create basic data layer for building marketing tools.
-Структурировать данные и отдать дименшены: .....
-Создать технологии для  рекомендательная система для NFT, метчинг веб2/3, zero party data, knowledge and social graph и персонализацию
+Create basic data layer for building marketing tools:
+- structure and combine on-chain data into users, projects, transactions and other relevant dimensions
+- provide API to access and manage data
+- give a techology for building martech products (e.g. NFT recommender and personalization system, matching web2 and web3 user data, zero party data system, knowledge and social graph and others)
 
 #### Why we do
-- Our team has 10+ year experience in marketing, analytics and engineering.
+- Our team has 10+ year experience in digital marketing, analytics and engineering.
 - We are highly confident that on-chain data has a unique role in scaling web3 products and ecosystem as a whole.
 - So we see our mission as **make web3 martech great to the next bull run**
 
 
 ### Project Details
 
-- The first step is to provide mintbase marketplaces with the user profiling tool via transformation of on-chain data
-- In the long term lay the foundation for building multiple martech products on NEAR, create new data layer in the form of a data protocol
 
-We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
-
-- Mockups/designs of any UI components
-- Data models / API specifications of the core functionality
-- An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
-- What your project is _not_ or will _not_ provide or implement
-  - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
 
 ### Ecosystem Fit
 #### Where and how does your project fit into the ecosystem?
-We see Metronomo as the user growth module of Mintbase now and part of marketplace contract 2.0 in the next iteration
+We see our project as the user growth module of Mintbase now and afterwards as part of marketplace contract 2.0
 
 #### Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
 Mintbase ecosystem projects
 
 #### What need(s) does your project meet?
+
 As the part of marketplace contract 2.0 allow merchants to create product selections based on user profiles and similarity to other projects to grow revenue
 
 #### Are there any other projects similar to yours in the Mintbase / NEAR ecosystem?
