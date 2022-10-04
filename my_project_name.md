@@ -89,6 +89,7 @@ We are focused on tools for NFT projects
 8+ years in analytics and data science
 
 **Vadim Smirnov**
+
 9+ years in marketing and product growth:
 - managed marketing in one of the units of [leading edtech platform in Eastern Europe](https://skillbox.com/)
 - led the growth team in the [largest Workforce-as-a-Service marketplace in CIS](https://gigwork.ru/)
