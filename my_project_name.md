@@ -1,26 +1,26 @@
 # Mintbase Grant Proposal
 
 - **Project Name:** Metronomo
-- **Team Name:** Metronomo
+- **Team Name:** Metronomo Team
 - **Payment Address:** metronomo.near
 - **[Level](../README.md#level_slider-levels):** 2
 
 ## Project Overview :page_facing_up:
 
 ### Overview
-Metronomo is a cross-chain user growth infrastructure
+[Metronomo.xyz] - is a cross-chain user growth infrastructure
 
 #### Problem
 We asked a bunch of web3 projects about their biggest challenges. All of them mentioned user acqusition as an urgent issue.
 That's how we had started building "hubspot for web3". But from the very beginning we faced 2 problems:
-1. On-chain data fragmented and poorly structured to create user profiles 
+1. On-chain data is fragmented and poorly structured to create user profiles 
 2. ETL and mapping is resource intensive and expensive
 
 #### Solution
-Create basic data layer for building marketing tools:
+We decided to create basic data layer for building marketing tools:
 - structure and combine on-chain data into users, projects, transactions and other relevant dimensions
 - provide API to access and manage data
-- give fundamental technologies for building martech products (e.g. NFT recommender and personalization system, matching web2 and web3 user data, zero party data system, knowledge and social graph and others)
+- give fundamental technologies for building martech products (e.g. NFT recommendation and personalization system, matching web2 and web3 user data, zero, 1st, 2nd & 3rd party data system, knowledge and social graph and others)
 
 #### Why we do
 - Our team has 10+ year experience in digital marketing, data science, development and data engineering.
@@ -111,7 +111,7 @@ https://github.com/Metronomo-xyz
 
 ## Development Status :open_book:
 
-As we are building infrastructure protocol for creating user growth tools for web3. Currently we are aiming to create first valuable tools, infrastructure and technology they need.
+We are building infrastructure protocol for creating user growth tools for web3. Currently we are aiming to create first valuable tools, infrastructure and technology they need.
 
 We believe that MVP will help us both provide value for projects in Mintbase ecosystem and create foundation for user acquisition infrastructure protocol.
 
@@ -185,10 +185,10 @@ During this project we are going to get 3 main results:
 
 ## Future Plans
 
-In the future, our main aim is to develop protocol architecture and economics concept based on user research.
+In the future our main goal is to develop protocol architecture and economics concept based on user research.
 Protocol should allow to build tools like (but lot limited to):
 - Recommender system for NFT marketplaces
-- Personalized user insenitives
+- Personalized user incentives
 - Affinity analysis
 - Product analytics tools
 - Open-source zero-party tracker
