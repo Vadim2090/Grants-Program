@@ -8,7 +8,7 @@
 ## Project Overview :page_facing_up:
 
 ### Overview
-Metronomo is a cross-chain user growth infrastracture
+Metronomo is a cross-chain user growth infrastructure
 
 #### Problem
 We asked a bunch of web3 projects about their biggest challenges. All of them mentioned user acqusition as an urgent issue.
@@ -77,7 +77,7 @@ We are willing to create cross-chain user growth protocol
 **Vladimir Gusev**:
 
 - co-Founder and CEO at [Metronomo](https://metronomo.xyz/)
-- ex-Partner & VP of Growth and later COO at GigAnt (largest Workforce-as-a-Service marketplace in Russia)
+- ex-Partner & VP of Growth and later COO at [GigAnt - largest Workforce-as-a-Service marketplace in CIS](https://gigwork.ru/)
     - Company was successfully acquired by [Avito - World’s Most-visited Classified Ads Site by Similarweb](https://www.yahoo.com/lifestyle/avito-named-world-most-visited-190600803.html)
 - ex-Co-founder and CMO at Russia’s TOP10 Digital Marketing Agency
     - Company was successfully acquired by TOP1 digital marketing group
@@ -86,7 +86,7 @@ We are willing to create cross-chain user growth protocol
 
 **Yaroslav Bondarchuk**
 
-8+ years in analytics, data science, data engineering:
+8+ years in analytics, data science and data engineering:
 - co-Founder and CPO at [Metronomo](https://metronomo.xyz/)
 - ex-Head of analytics at [GigAnt - largest Workforce-as-a-Service marketplace in CIS](https://gigwork.ru/)
 - ex-Product owner at [Retail Rocket](https://retailrocket.net/) (recommender system product)
@@ -95,10 +95,10 @@ We are willing to create cross-chain user growth protocol
 **Vadim Smirnov**
 
 9+ years in marketing and product growth:
-- co-founder and CMO at [Metronomo](https://metronomo.xyz/)
+- co-Founder and CMO at [Metronomo](https://metronomo.xyz/)
 - ex-Head of growth at [GigAnt the - largest Workforce-as-a-Service marketplace in CIS](https://gigwork.ru/)
 - Advisor at [Sailplay - international marketing automation platform](https://sailplay.com/)
-- ex-performance marketing group head at [Skillbox - leading edtech platform in Eastern Europe](https://skillbox.com/)
+- ex-Performance marketing group head at [Skillbox - leading edtech platform in Eastern Europe](https://skillbox.com/)
 
 ### Team Code Repos
 https://github.com/Metronomo-xyz
@@ -125,7 +125,7 @@ As for now we've already done:
    3. https://link.springer.com/chapter/10.1007/978-981-19-1018-0_42
 
 During this project we are going to get 3 main results:
-- create module to find power users. interacted with given smart contract.
+- create module to find power users, interacted with given smart contract.
 - create module to calculate users similarity measure and find potential power users
 - create module to find smart-contract which potential power users interact with
 
@@ -197,7 +197,7 @@ Protocol should allow to build tools like (but lot limited to):
 - etc.
 
 Our roadmap includes delivering:
-- Generalized power-user analysis module to be possible to use as separate open-source product
+- Generalized power-user analysis module that can be used as separate open-source product
 - Rewrited data extraction module (not covered by this grant application) to user NEAR Lake data (for Google Cloud) instead of NEAR Indexer for Explorer data
 - Blend web2 & web3 data to enhance user acquisition
 - Provide API to access and manage marketing data
