@@ -45,13 +45,15 @@ Mintbase ecosystem projects
 As the part of marketplace contract 2.0 allow merchants to create product selections based on user profiles and similarity to other projects to grow revenue
 
 #### Are there any other projects similar to yours in the Mintbase / NEAR ecosystem?
-All existing NEAR products cover a single aspect of user growth, but not infrastructure
+All existing NEAR products cover a single aspect of user growth, but are not open source infrastructure
 (e.g. Wombi - dashboards, Datrics - creating ML models, Plex - user profiling and engaging)
 
+#### If so, how is your project different?
+We build open source user growth infrastructure protocol
 
 #### If not, are there similar projects in related ecosystems?
 0xscope, The Graph, Permission.io and other infrustruce products are close but no completely similar
-They are focused on general issue, but not on marketing needs
+They are focused on general indexing issue, but not on marketing data needs
 
 ## Team :busts_in_silhouette:
 
@@ -203,4 +205,6 @@ Our roadmap includes delivering:
 
 ## Additional Information :heavy_plus_sign:
 
-**How did you hear about the Grants Program?** NEARCON 2022
+**How did you hear about the Grants Program?** 
+
+from Paul Kuveke at NEARCON 2022
