@@ -8,7 +8,7 @@
 ## Project Overview :page_facing_up:
 
 ### Overview
-[(https://metronomo.xyz/)] is a cross-chain user growth infrastructure
+[https://metronomo.xyz/](Metronomo) is a cross-chain user growth infrastructure
 
 #### Problem
 We asked a bunch of web3 projects about their biggest challenges. All of them mentioned user acqusition as an urgent issue.
@@ -45,14 +45,13 @@ Mintbase ecosystem projects
 As the part of marketplace contract 2.0 allow merchants to create product selections based on user profiles and similarity to other projects to grow revenue
 
 #### Are there any other projects similar to yours in the Mintbase / NEAR ecosystem?
-All existing NEAR products are focused on a single aspect of user growth, but not infrastructure
+All existing NEAR products cover a single aspect of user growth, but not infrastructure
 (e.g. Wombi - dashboards, Datrics - creating ML models, Plex - user profiling and engaging)
 
-#### If so, how is your project different?
-We are willing to create cross-chain user growth protocol
 
 #### If not, are there similar projects in related ecosystems?
-0xscope, The Graph
+0xscope, The Graph, Permission.io and other infrustruce products are close but no completely similar
+They are focused on general issue, but not on marketing needs
 
 ## Team :busts_in_silhouette:
 
