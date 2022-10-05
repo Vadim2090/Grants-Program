@@ -11,7 +11,7 @@
 Metronomo is a cross-chain user growth infrastracture
 
 #### Problem
-We asked 7 web3 projects about their biggest challenges. All of them mentioned user acqusition as an urgent issue.
+We asked a bunch of web3 projects about their biggest challenges. All of them mentioned user acqusition as an urgent issue.
 That's how we had started building "hubspot for web3". But from the very beginning we faced 2 problems:
 1. On-chain data fragmented and poorly structured to create user profiles 
 2. ETL and mapping is resource intensive and expensive
@@ -20,37 +20,39 @@ That's how we had started building "hubspot for web3". But from the very beginni
 Create basic data layer for building marketing tools:
 - structure and combine on-chain data into users, projects, transactions and other relevant dimensions
 - provide API to access and manage data
-- give a techology for building martech products (e.g. NFT recommender and personalization system, matching web2 and web3 user data, zero party data system, knowledge and social graph and others)
+- give fundamental technologies for building martech products (e.g. NFT recommender and personalization system, matching web2 and web3 user data, zero party data system, knowledge and social graph and others)
 
 #### Why we do
-- Our team has 10+ year experience in digital marketing, analytics and engineering.
-- We are highly confident that on-chain data has a unique role in scaling web3 products and ecosystem as a whole.
-- So we see our mission as **make web3 martech great to the next bull run**
+- Our team has 10+ year experience in digital marketing, data science, development and data engineering.
+- We are highly confident that on-chain data has an extremely important role in scaling web3 products and ecosystem as a whole.
+- So we see our mission as **make web3 martech great by the next bull run**
 
 ### Project Details
 
--
+We will deliver easy to use API, which allows to integrate functionality in different products (ex. Mintbase UI, Telegram Bot or other) 
+- API specification: https://www.notion.so/gusevvladimir/Projects-with-potential-power-users-7982033da4424787993fed3001a7f54a
+- MVP: Telegram bot: [@metronomo_bot](https://t.me/metronomo_bot)
+- Technology stack to be used: Google Cloud Functions, Google Cloud Storage, Python
 
 ### Ecosystem Fit
 #### Where and how does your project fit into the ecosystem?
-We see this project as the user growth module of Mintbase.
-
-In the next iteration it can become a part of marketplace contract 2.0, allowing merchants to place the most wanted goods via our technology
+We see Metronomo as the user growth module of Mintbase now and part of marketplace contract 2.0 in the next iteration
 
 #### Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
 Mintbase ecosystem projects
 
 #### What need(s) does your project meet?
-Help them aquire and retain users
+As the part of marketplace contract 2.0 allow merchants to create product selections based on user profiles and similarity to other projects to grow revenue
 
 #### Are there any other projects similar to yours in the Mintbase / NEAR ecosystem?
-Wombi
+All existing NEAR products are focused on a single aspect of user growth, but not infrastructure
+(e.g. Wombi - dashboards, Datrics - creating ML models, Plex - user profiling and engaging)
 
 #### If so, how is your project different?
-We are focused on tools for NFT projects and are willing to create cross-chain user growth infrastracture
+We are willing to create cross-chain user growth protocol
 
 #### If not, are there similar projects in related ecosystems?
----
+0xscope, The Graph
 
 ## Team :busts_in_silhouette:
 
@@ -74,108 +76,132 @@ We are focused on tools for NFT projects and are willing to create cross-chain u
 ### Team's experience
 **Vladimir Gusev**:
 
-- Professional online poker player since 2005 till 2010
-- Co-founder and CMO at Russia’s TOP10 Digital Marketing Agency
+- co-Founder and CEO at [Metronomo](https://metronomo.xyz/)
+- ex-Partner & VP of Growth and later COO at GigAnt (largest Workforce-as-a-Service marketplace in Russia)
+    - Company was successfully acquired by [Avito - World’s Most-visited Classified Ads Site by Similarweb](https://www.yahoo.com/lifestyle/avito-named-world-most-visited-190600803.html)
+- ex-Co-founder and CMO at Russia’s TOP10 Digital Marketing Agency
     - Company was successfully acquired by TOP1 digital marketing group
-- Partner & VP of Growth and later COO at GigAnt (largest Workforce-as-a-Service marketplace in Russia)
-    - Company was successfully acquired by Avito ([World’s Most-visited Classified Ads Site by Similarweb](https://www.yahoo.com/lifestyle/avito-named-world-most-visited-190600803.html))
-- Since 2022 Co-founder and CEO at Metronomo. We are building marketing infrastructure for web3
+- ex-Professional online poker player since 2005 till 2010
 
 
 **Yaroslav Bondarchuk**
-8+ years in analytics, data science, data engineering
+
+8+ years in analytics, data science, data engineering:
+- co-Founder and CPO at [Metronomo](https://metronomo.xyz/)
+- ex-Head of analytics at [GigAnt - largest Workforce-as-a-Service marketplace in CIS](https://gigwork.ru/)
+- ex-Product owner at [Retail Rocket](https://retailrocket.net/) (recommender system product)
+- ex-Head of analytics at [Skillbox - leading edtech platform in Eastern Europe](https://skillbox.com/)
 
 **Vadim Smirnov**
 
 9+ years in marketing and product growth:
-- managed marketing in one of the units of [leading edtech platform in Eastern Europe](https://skillbox.com/)
-- led the growth team in the [largest Workforce-as-a-Service marketplace in CIS](https://gigwork.ru/)
-- acted as an advisor in the [international marketing automation platform](https://sailplay.com/)
-- since 2022 Co-founder and CMO at [Metronomo](https://metronomo.xyz/)
+- co-founder and CMO at [Metronomo](https://metronomo.xyz/)
+- ex-Head of growth at [GigAnt the - largest Workforce-as-a-Service marketplace in CIS](https://gigwork.ru/)
+- Advisor at [Sailplay - international marketing automation platform](https://sailplay.com/)
+- ex-performance marketing group head at [Skillbox - leading edtech platform in Eastern Europe](https://skillbox.com/)
 
 ### Team Code Repos
 https://github.com/Metronomo-xyz
 
 ### Team LinkedIn Profiles (if available)
 
-- [Vladimir Gusev](https://www.linkedin.com/in/gusev-v1987/)
+- [Vladimir Gusev](https://www.linkedin.com/in/gusevv1987/)
 - [Yaroslav Bondarchuk](https://www.linkedin.com/in/bondarchukyaroslav/) 
 - [Vadim Smirnov](https://www.linkedin.com/in/vadim-smirnov-71a66b189/)
 
 ## Development Status :open_book:
 
-If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
+As we are building infrastructure protocol for creating user growth tools for web3. Currently we are aiming to create first valuable tools, infrastructure and technology they need.
 
-- links to improvement proposals or [RFPs](https://github.com/mintbase/Grants-Program/tree/master/rfp-proposal) (requests for proposal),
-- academic publications relevant to the problem,
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-- references to conversations you might have had related to this project with anyone from the Mintbase Foundation,
-- previous interface iterations, such as mock-ups and wireframes.
+We believe that MVP will help us both provide value for projects in Mintbase ecosystem and create foundation for user acquisition infrastructure protocol.
+
+As for now we've already done:
+1. [Telegram Bot: @metronomo_bot](https://t.me/metronomo_bot) to test hypothesis on NEARCON and research projects pains and value request. We found out that user acquisition part of ecosystem lacks most of familiar tools and techniques.
+2. For now we consider, that main method to find power users will be RFM-segmentation https://en.wikipedia.org/wiki/RFM_(market_research)
+3. We created very basic projects and users similarity analysis tools and found out, that it's possible to compute on net very expensive servers and in reasonable time for creating product.
+4. There are several users-similarity techniques described in papers, which we're going to try and implement. For example (but not limited to):
+   1. https://link.springer.com/article/10.1007/s10115-021-01651-8
+   2. https://ieeexplore.ieee.org/abstract/document/904471
+   3. https://link.springer.com/chapter/10.1007/978-981-19-1018-0_42
+
+During this project we are going to get 3 main results:
+- create module to find power users. interacted with given smart contract.
+- create module to calculate users similarity measure and find potential power users
+- create module to find smart-contract which potential power users interact with
 
 ## Development Roadmap :nut_and_bolt:
 
-This section should break the development roadmap down into milestones and deliverables. To assist you in defining it, we have created a document with examples for some grant categories [here](../docs/grant_guidelines_per_category.md). Since these will be part of the agreement, it helps to describe _the functionality we should expect in as much detail as possible_, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
-
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to Mintbase. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
-
-For each milestone,
-
-- make sure to include a specification of your software. _Treat it as a contract_; the level of detail must be enough to later verify that the software meets the specification.
-- include the amount of funding requested _per milestone_.
-- include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
-- provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
-- commit to providing Dockerfiles for the delivery of your project.
-- indicate milestone duration as well as number of full-time employees working on each milestone.
-- **Deliverables 0a-0d are mandatory for all milestones**, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
-
-> :zap: If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
-
 ### Overview
 
-- **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
-- **Full-Time Equivalent (FTE):**  Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
-- **Total Costs:** Requested amount in USD for the whole project (e.g. 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#level_slider-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in Bitcoin, the amount will be calculated according to the exchange rate at the time of payment.
+- **Total Estimated Duration:** 3,5 months
+- **Full-Time Equivalent (FTE):**  5 FTE
+- **Total Costs:** 25,000 USD
 
-### Milestone 1 Example — Implement Mintbase Modules
+### Milestone 1 — Implement power-users search module
 
 - **Estimated duration:** 1 month
-- **FTE:**  2
-- **Costs:** 8,000 USD
+- **FTE:**  1
+- **Costs:** 5,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 0a. | License | Apache 2.0 / GPLv3 / MIT / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our Mintbase nodes and send test transactions, which will show how the new functionality works. |
+| 0a. | License | proprietary
+| 0b. | Documentation | We will provide both **inline documentation** of the code and basic tutorial on how to deploy and run created module.
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
 | 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | Mintbase module: X | We will create a Mintbase / NEAR module that will... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Mintbase module: Y | We will create a Mintbase / NEAR module that will... |  
-| 3. | Mintbase module: Z | We will create a Mintbase / NEAR module that will... |  
-| 4. | NEAR chain integration | Modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |  
+| 1. | Power-users-search module | We will create a module that will search for power users of a smart contract, given the indexed blockchain data in described format.  
 
 
-### Milestone 2 Example — Additional features
+### Milestone 2 - Implement look-a-like module
+
+- **Estimated Duration:** 1,5 months
+- **FTE:**  2
+- **Costs:** 15,000 USD
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 0a. | License | proprietary
+| 0b. | Documentation | We will provide both **inline documentation** of the code and basic tutorial on how to deploy and run created module.
+| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
+| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
+| 1. | Look-a-like module | We will create a module that will create look-a-like (embeded vector) representation of a power users in user space
+
+### Milestone 3 - Implement users similarity module and users activity module
 
 - **Estimated Duration:** 1 month
 - **FTE:**  1
-- **Costs:** 4,000 USD
+- **Costs:** 5,000 USD
 
-...
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 0a. | License | proprietary
+| 0b. | Documentation | We will provide both **inline documentation** of the code and basic tutorial on how to deploy and run created module.
+| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
+| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
+| 0e. | Article | We will publish an **article** and perform a workshop that explains how to use created API and how to receive value from this product.
+| 1. | Users similarity module | We will create a module that will find most similar users in whole NEAR blockchain given specific set of look-a-likes
+| 2. | Similar contracts search module | We will create module that will find and count how many potential similar to look-a-like users interacted with each smart contract (with at list 1 interaction during given past period)
+| 3. | API setup | We will run an API, which Mintbase users or Mintbase itself can use or integrate in Mintbase UI
+
 ## Future Plans
 
-Please include here
+In the future, our main aim is to develop protocol architecture and economics concept based on user research.
+Protocol should allow to build tools like (but lot limited to):
+- Recommender system for NFT marketplaces
+- Personalized user insenitives
+- Affinity analysis
+- Product analytics tools
+- Open-source zero-party tracker
+- Competitor analysis
+- Cohort analysis
+- etc.
 
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
-
+Our roadmap includes delivering:
+- Generalized power-user analysis module to be possible to use as separate open-source product
+- Rewrited data extraction module (not covered by this grant application) to user NEAR Lake data (for Google Cloud) instead of NEAR Indexer for Explorer data
+- Blend web2 & web3 data to enhance user acquisition
+- Provide API to access and manage marketing data
 
 ## Additional Information :heavy_plus_sign:
 
-**How did you hear about the Grants Program?** Mintbase Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
-
-Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
-
-- Work you have already done.
-- If there are any other teams who have already contributed (financially) to the project.
-- Previous grants you may have applied for.
+**How did you hear about the Grants Program?** NEARCON 2022
