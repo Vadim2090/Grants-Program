@@ -8,7 +8,7 @@
 ## Project Overview :page_facing_up:
 
 ### Overview
-[https://metronomo.xyz/](Metronomo) is a cross-chain user growth infrastructure
+[Metronomo](https://metronomo.xyz/) is a cross-chain user growth infrastructure
 
 #### Problem
 We asked a bunch of web3 projects about their biggest challenges. All of them mentioned user acquisition as an urgent issue.
