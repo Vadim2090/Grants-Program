@@ -30,7 +30,7 @@ To resolve these challenges, we decided to create a basic data layer for marketi
 ### Project Details
 
 We will deliver easy to use API, which allows functional integration in different products (ex., Mintbase UI, Telegram Bot, and others) 
-- API specification: https://www.notion.so/gusevvladimir/Projects-with-potential-power-users-7982033da4424787993fed3001a7f54a
+- API specification: https://www.notion.so/metronomo/Projects-with-potential-power-users-7982033da4424787993fed3001a7f54a
 - MVP: Telegram bot: [@metronomo_bot](https://t.me/metronomo_bot)
 - Technology stack to be used: Google Cloud Functions, Google Cloud Storage, Python
 
